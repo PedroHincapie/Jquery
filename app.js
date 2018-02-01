@@ -1,13 +1,13 @@
-$(document).ready(function($) {
-	alert("Este es el mensaje incial")
+// $(document).ready(function($) {
+// 	alert("Este es el mensaje incial")
 
-});
+// });
 
-$().ready(function($) {
-	alert("Este es el mensaje 2")
+// $().ready(function($) {
+// 	alert("Este es el mensaje 2")
 
-});
+// });
 
-$(function () {
-	alert("Este es el tercer mensaje")
-});
+// $(function () {
+// 	alert("Este es el tercer mensaje")
+// });
